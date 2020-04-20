@@ -1,0 +1,5 @@
+[0112/180253.115:ERROR:process_info.cc(359)] UncheckedAllocate
+[0112/180431.179:ERROR:process_info.cc(359)] UncheckedAllocate
+[0112/180431.461:ERROR:process_info.cc(359)] UncheckedAllocate
+[0112/180431.558:ERROR:process_info.cc(359)] UncheckedAllocate
+[0112/180431.648:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\julia\AppData\Local\Temp\scoped_dir32636_651046636\Crashpad\reports\a8b679f7-221b-49ce-b7db-158d141bbf52.dmp: The process cannot access the file because it is being used by another process. (0x20)
